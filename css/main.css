@@ -1,0 +1,50 @@
+body{
+	padding-top: 59px;
+}
+.active{
+			color: blue;
+		}
+@media only screen and (min-width: 340px){
+
+#imgnav{
+	border-radius: 20%;
+}
+#mainNav{
+	background-color: white;
+	left:  50px;
+	
+	border-bottom: 1px solid black;
+}
+#mainNav .navbar-brand,#mainNav .nav-link{
+	color: #1228;
+	font-size: 15px;
+	font: bold italic  15px verdana;
+}
+#mainNav .nav-link:hover{
+	color:red;
+	font-style: normal;
+
+	/* text-decoration: underline; */
+
+}
+
+#divnak:hover{
+	color: red;
+	font-size: 20px;
+
+}
+
+#gmip{
+	font-size: 10px;
+	color: red;
+}
+
+#h1esta:hover{
+  font-size: 20px;
+  
+}
+.active{
+	color: red;
+		}
+}
+
